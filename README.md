@@ -1,1 +1,1 @@
-# carousal
+# Carousal - A Bootstrap Component
